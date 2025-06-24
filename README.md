@@ -19,4 +19,4 @@ I'm a passionate UI/UX designer and full-stack developer in the making, currentl
 ![Jishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jishnuanil&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/jishnuanil2003)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jishnuanil2003)
