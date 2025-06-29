@@ -1,22 +1,42 @@
-# 👋 Hi, I'm Jishnu Anil
+### 👋 Hey there, I'm Jishnu!
 
-## 💻 About Me
-I'm a passionate UI/UX designer and full-stack developer in the making, currently learning React, JavaScript, and working on AI-based projects.
+I'm a passionate front-end developer and designer from India 🇮🇳  
+Currently learning **React**, **Tailwind CSS**, and building cool, responsive UIs.  
+Aspiring to become a **Full-Stack MERN Developer** and land my dream job at **Google**.
 
-- 🔭 I’m currently working on a Netflix clone and a student micro-task platform.
-- 🌱 I’m learning advanced React and backend development.
-- 👯 I’m looking to collaborate on React and ML projects.
-- ⚡ Fun fact: I design better in dark mode 😉
+---
 
-## 🛠️ Technologies & Tools
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+### 🛠️ Tech Stack
 
-## 📈 GitHub Stats
-![Jishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jishnuanil&show_icons=true&theme=radical)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jishnuanil2003)
+---
+
+### 📈 GitHub Stats
+
+![Jishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jishnuanil2003&show_icons=true&theme=tokyonight)
+
+---
+
+### 💼 Projects
+
+- 🛍️ [E-commerce Watch Store](https://github.com/jishnuanil2003/watch-store)
+- 🧠 [AI-powered Symptom Checker](https://github.com/jishnuanil2003/ai-doctor)
+- 📝 [Responsive Landing Page](https://github.com/jishnuanil2003/responsive-landing-page)
+
+---
+
+### 📫 Contact Me
+
+- Email: [jishnuanil2003@gmail.com](mailto:jishnuanil2003@gmail.com)
+- LinkedIn: [linkedin.com/in/jishnu-anil](https://www.linkedin.com/in/jishnu-anil)
+- Portfolio: _Coming soon..._
+
+---
+
+*“Your future is created by what you do today, not tomorrow.”*
