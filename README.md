@@ -1,60 +1,62 @@
-<h1 align="center">Hi 👋, I'm Jishnu</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | AI Enthusiast</h3>
+# Hi 👋 I'm Jishnu
 
----
+<img src="YOUR_PROFILE_IMAGE_URL" width="120" align="left" style="margin-right: 15px;" />
 
-## 🧠 About Me
-- 🎯 Aspiring **Machine Learning Engineer**
-- 📊 Skilled in **Data Analysis, Machine Learning & Model Building**
-- 🤖 Currently exploring **Deep Learning & NLP**
-- 💡 Passionate about building **real-world ML applications**
-- 🚀 Actively looking for **ML Engineer / Data Scientist roles**
+### Machine Learning Engineer | AI Enthusiast  
+
+- 🎯 Aspiring Machine Learning Engineer  
+- 📊 Skilled in Data Analysis & ML Model Building  
+- 🤖 Exploring Deep Learning & NLP  
+- 🚀 Actively looking for ML / Data roles  
+
+<br clear="left"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 📚 ML & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+**ML & Data:**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)  
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📈 Additional Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true)
+
+![Repo Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=%24.public_repos&url=https://api.github.com/users/YOUR_USERNAME)
+
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social)
 
 ---
 
 ## 📌 Featured Projects
 
-- 🔍 **Insurance Premium Prediction**
-  - End-to-end ML project with deployment
-  - Feature engineering, model selection & evaluation
-
-- 🧬 **Breast Cancer Prediction**
-  - Classification model using medical dataset
-  - Focus on accuracy & interpretability
+- 🔍 Insurance Premium Prediction  
+- 🧬 Breast Cancer Prediction  
 
 ---
 
-## 📫 Connect with Me
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 📧 Email: YOUR_EMAIL
+## 📫 Connect
 
----
-
-⭐️ *"Turning data into insights and models into impact"*
+- 💼 LinkedIn: https://www.linkedin.com/in/jishnuanil2003/   
+- 📧 Email: aniljishnu07@gmail.com  
