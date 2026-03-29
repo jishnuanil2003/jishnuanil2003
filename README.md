@@ -1,47 +1,60 @@
-### 👋 Hey there, I'm Jishnu!
-
-I'm a passionate front-end developer and designer from India 🇮🇳  
-Currently learning **React**, **Tailwind CSS**, and building cool, responsive UIs.  
-Aspiring to become a **Full-Stack MERN Developer** and land my dream job at **Google**.
+<h1 align="center">Hi 👋, I'm Jishnu</h1>
+<h3 align="center">Aspiring Machine Learning Engineer | AI Enthusiast</h3>
 
 ---
 
-### 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=ff6f00&style=flat)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+## 🧠 About Me
+- 🎯 Aspiring **Machine Learning Engineer**
+- 📊 Skilled in **Data Analysis, Machine Learning & Model Building**
+- 🤖 Currently exploring **Deep Learning & NLP**
+- 💡 Passionate about building **real-world ML applications**
+- 🚀 Actively looking for **ML Engineer / Data Scientist roles**
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Jishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jishnuanil2003&show_icons=true&theme=tokyonight)
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+### 📚 ML & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 
-### 💼 Projects
-
-- 📈 [Stock Prediction Portal](https://github.com/jishnuanil2003/Stock_Prediction_Portal.git)
-- 💸 [Expense Tracker](https://github.com/jishnuanil2003/Expense-tracker)
-- 🎧 [Spotify UI Clone](https://github.com/jishnuanil2003/Spotify-UI-Clone)
-- 🕰️ [ORRIN - Watch Selling E-commerce Website](https://github.com/jishnuanil2003/orrin-ecommerce)
-
----
-
-### 📫 Contact Me
-
-- 📧 Email: [jishnuanil2003@gmail.com](mailto:jishnuanil2003@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/jishnu-anil](https://www.linkedin.com/in/jishnu-anil)
-- 🌐 Portfolio: _Coming soon..._
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
 ---
 
-*“Your future is created by what you do today, not tomorrow.”*
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🔍 **Insurance Premium Prediction**
+  - End-to-end ML project with deployment
+  - Feature engineering, model selection & evaluation
+
+- 🧬 **Breast Cancer Prediction**
+  - Classification model using medical dataset
+  - Focus on accuracy & interpretability
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: YOUR_LINKEDIN_URL
+- 📧 Email: YOUR_EMAIL
+
+---
+
+⭐️ *"Turning data into insights and models into impact"*
