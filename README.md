@@ -48,17 +48,9 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Problem Solving Area
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/AI%20Engineer-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/React%20Developer-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/UI%2FUX%20Designer-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP%20Enthusiast-111827?style=for-the-badge"/> </p>
 
 ---
 
