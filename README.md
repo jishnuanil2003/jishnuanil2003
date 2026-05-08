@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jishnu</h1>
+<h1 align="left">Hi 👋, I'm Jishnu</h1>
 <h3 align="center">AI Engineer | React Developer | UI/UX Designer | ML Enthusiast</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 - 🎓 MCA Student at Amrita University
 - 💻 React + Python Developer
 - 🤖 Interested in AI, NLP, LLMs & Generative AI
-- 🎨 Former UI/UX Designer with 1 year experience
+- 🎨 Former Web designer with 1 year experience
 - 🌱 Currently learning Advanced React, NLP & Transformers
 - 🚀 Goal: Become an AI Engineer
 - 🇮🇳 Based in India
@@ -64,33 +64,29 @@
 
 # 🚀 Featured Projects
 
-### 🧠 Emotion Detection using BiLSTM
-AI model for emotion classification using GloVe embeddings and deep learning.
+### 🚗 Car Damage Detection using ResNet
+AI model for detecting damaged car from image uploads using transfer learning model ResNet and deep learning.
 
 ### 📄 Resume Matching System
 Smart ATS-based resume matcher using NLP and Machine Learning.
 
-### ⌚ Virtual Watch Try-On Website
+### 💳 Credit Card Risk Prediction Portal
 E-commerce platform with virtual wrist try-on feature.
 
-### 🩺 AI Doctor Appointment App
-Voice-enabled doctor appointment booking app with report summarization.
+### 🩺 Hybrid Movie Recommendation System
+Movie recommendation system using cosine similarity and deep learning.
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/jishnuanil2003">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/jishnuanil2003/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -103,5 +99,5 @@ Voice-enabled doctor appointment booking app with report summarization.
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/YOUR_USERNAME">Jishnu</a>
+  ⭐ From <a href="https://github.com/jishnuanil2003">Jishnu</a>
 </p>
