@@ -1,62 +1,107 @@
-# Hi 👋 I'm Jishnu
+<h1 align="center">Hi 👋, I'm Jishnu</h1>
+<h3 align="center">AI Engineer | React Developer | UI/UX Designer | ML Enthusiast</h3>
 
-<img src="YOUR_PROFILE_IMAGE_URL" width="120" align="left" style="margin-right: 15px;" />
-
-### Machine Learning Engineer | AI Enthusiast  
-
-- 🎯 Aspiring Machine Learning Engineer  
-- 📊 Skilled in Data Analysis & ML Model Building  
-- 🤖 Exploring Deep Learning & NLP  
-- 🚀 Actively looking for ML / Data roles  
-
-<br clear="left"/>
+<p align="center">
+  Passionate about building AI-powered products, modern web applications, and innovative user experiences.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**ML & Data:**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)  
-
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)  
+- 🎓 MCA Student at Amrita University
+- 💻 React + Python Developer
+- 🤖 Interested in AI, NLP, LLMs & Generative AI
+- 🎨 Former UI/UX Designer with 1 year experience
+- 🌱 Currently learning Advanced React, NLP & Transformers
+- 🚀 Goal: Become an AI Engineer
+- 🇮🇳 Based in India
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>
 
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight)
+### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### 🧠 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### 🎨 Design Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</p>
 
 ---
 
-## 📈 Additional Stats
+# 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-![Repo Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=%24.public_repos&url=https://api.github.com/users/YOUR_USERNAME)
-
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social)
-
----
-
-## 📌 Featured Projects
-
-- 🔍 Insurance Premium Prediction  
-- 🧬 Breast Cancer Prediction  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect
+# 🚀 Featured Projects
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jishnuanil2003/   
-- 📧 Email: aniljishnu07@gmail.com  
+### 🧠 Emotion Detection using BiLSTM
+AI model for emotion classification using GloVe embeddings and deep learning.
+
+### 📄 Resume Matching System
+Smart ATS-based resume matcher using NLP and Machine Learning.
+
+### ⌚ Virtual Watch Try-On Website
+E-commerce platform with virtual wrist try-on feature.
+
+### 🩺 AI Doctor Appointment App
+Voice-enabled doctor appointment booking app with report summarization.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> “I love combining AI + Design + Development to build futuristic products.”
+
+---
+
+<p align="center">
+  ⭐ From <a href="https://github.com/YOUR_USERNAME">Jishnu</a>
+</p>
