@@ -50,7 +50,7 @@
 
 # 📊 Problem Solving Area
 
-<p align="center"> <img src="https://img.shields.io/badge/AI%20Engineer-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/React%20Developer-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/UI%2FUX%20Designer-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP%20Enthusiast-111827?style=for-the-badge"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/AI%20Engineer-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/React%20Developer-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/UI%2FUX%20Designer-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP%20Enthusiast-111827?style=for-the-badge"/> </p>
 
 ---
 
