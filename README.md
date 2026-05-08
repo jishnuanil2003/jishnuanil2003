@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jishnu</h1>
-<h3 align="center">AI Engineer | React Developer | UI/UX Designer | ML Enthusiast</h3>
+<h3 align="left">AI Engineer | React Developer | UI/UX Designer | ML Enthusiast</h3>
 
-<p align="center">
+<p align="left">
   Passionate about building AI-powered products, modern web applications, and innovative user experiences.
 </p>
 
